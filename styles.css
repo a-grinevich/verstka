@@ -1,0 +1,35 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 22px;
+  line-height: 34px;
+}
+
+header {
+  background-color: #fd739c;
+  color: #ffffff;
+  padding-bottom: 50px;
+}
+
+h1,
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: normal;
+}
+
+h1 {
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+
+.about {
+  padding-top: 50px;
+}
